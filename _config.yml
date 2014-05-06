@@ -12,9 +12,9 @@ markdown: redcarpet
 title : Adam's Bootstrap
 #tagline: Taggy Taggy
 author :
-name : Name Lastname
-email : blah@email.test
-github : username
+name : Adam Massick
+email : adam.massick@gmail.com
+github : amassick
 twitter : username
 feedburner : feedname
 
@@ -101,7 +101,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-50747009-1'
     getclicky :
       site_id : 
     mixpanel :
